@@ -1,6 +1,4 @@
 # searchengine
-Documentation for Search Engine, an open source perfume
-
 Documentation for Search Engine, available at https://www.catlab.tech/open-source-perfume.
 
 Pitch
